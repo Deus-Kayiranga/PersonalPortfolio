@@ -9,7 +9,7 @@ The portfolio includes:
 - **Projects Page:** List of my projects with descriptions and images  
 - **Contact Page:** A form to send messages and social media links  
 
----
+
 
 ## Features
 - Responsive design for desktop, tablet, and mobile  
@@ -18,8 +18,7 @@ The portfolio includes:
 - Social media links (LinkedIn, GitHub, Twitter)  
 - Project images for visual representation  
 
----
----
+
 
 ## Technologies Used
 - **HTML** – Structure of the pages  
@@ -27,7 +26,7 @@ The portfolio includes:
 - **JavaScript** – Contact form interactivity  
 - **GitHub Pages** – Deployment  
 
----
+
 
 ## Deployment
 The website is deployed online using **GitHub Pages**: 
